@@ -51,7 +51,7 @@ Furthermore, simply allowing YouTube uploads does not guarantee permission for o
 
 ## Will this resolution apply to the UIST 2015 videos?
 
-Unfortunately, no.  Short explanation: In order to make video recordings we need to obtain [release forms](#release_forms) (see below).  We do not have the time to get speakers to complete a whole new set of release forms this close to the conference.  As a result, we will only be able to make the 2015 video recordings available via the ACM digital library.
+Unfortunately, no.  Short explanation: In order to make video recordings we need to obtain [release forms](#my-talks-often-contain-copyrighted-content--how-will-this-resolution-affect-me--what-is-required-to-put-a-talk-under-a-creative-commons-license--what-is-a-release-form) (see below).  We do not have the time to get speakers to complete a whole new set of release forms this close to the conference.  As a result, we will only be able to make the 2015 video recordings available via the ACM digital library.
 
 ## Why is vocal community support necessary?
 
